@@ -14,6 +14,12 @@ print("spam\neggs\nspam and eggs\neggs and spam and spam and eggs. By the way, b
 
 print("Languages:\nPython\nC\nJavaScript")
 
+# Python can look for extra whitespace on the right
+# and the left sides of a string. To ensure that
+# no whitespace exists at the right end of a string,
+# use the rstrip() method (p22):
 favorite_language = 'python '
 favorite_language
 favorite_language.rstrip()
+favorite_language
+

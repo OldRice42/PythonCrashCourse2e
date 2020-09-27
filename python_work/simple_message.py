@@ -1,2 +1,0 @@
-fizz = "buzz"
-print(fizz)
