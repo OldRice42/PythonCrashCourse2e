@@ -7,4 +7,3 @@ message = "Hello Python Crash Course wold!"
 print(message)
 
 mesage = "Hello Python Crash Course reader!"
-print(mesage)
